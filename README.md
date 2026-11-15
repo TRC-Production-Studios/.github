@@ -18,34 +18,34 @@
 
 </div>
 
-## <img src="./assets/icons/info-circle.svg" width="24" height="24" align="absmiddle" alt="" /> Über uns
+## <img src="./assets/icons/info-circle.svg" width="24" height="24" align="absmiddle" alt="" /> About us
 
-TRC Production Studios ist ein kleines Game- und Development-Studio aus der Schweiz. Wir bauen Spiele, Tools und Webprojekte und zeigen auf unseren Kanälen, wie sie entstehen.
+TRC Production Studios is a small game and development studio from Switzerland. We build games, tools and web projects, and show how they come to life on our channels.
 
-Unser Leitmotiv: **Inspiration · Innovation · Production**
+Our motto: **Inspiration · Innovation · Production**
 
 <div align="center">
 <img src="./assets/divider.svg" alt="" width="100%" />
 </div>
 
-## <img src="./assets/icons/device-gamepad-2.svg" width="24" height="24" align="absmiddle" alt="" /> Was wir machen
+## <img src="./assets/icons/device-gamepad-2.svg" width="24" height="24" align="absmiddle" alt="" /> What we do
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <img src="./assets/icons/device-gamepad-2.svg" width="28" height="28" alt="" /><br/>
       <b>Games</b><br/>
-      Eigene Spielprojekte und Systeme, unter anderem für Roblox und Minecraft.
+      Original game projects and systems, including for Roblox and Minecraft.
     </td>
     <td width="33%" valign="top">
       <img src="./assets/icons/world.svg" width="28" height="28" alt="" /><br/>
-      <b>Web und Tools</b><br/>
-      Webseiten, Dashboards und Hosting-Infrastruktur.
+      <b>Web and Tools</b><br/>
+      Websites, dashboards and hosting infrastructure.
     </td>
     <td width="33%" valign="top">
       <img src="./assets/icons/video.svg" width="28" height="28" alt="" /><br/>
       <b>Content</b><br/>
-      Videos, Streams und Einblicke hinter die Kulissen.
+      Videos, streams and behind-the-scenes looks.
     </td>
   </tr>
 </table>
@@ -54,14 +54,14 @@ Unser Leitmotiv: **Inspiration · Innovation · Production**
 <img src="./assets/divider.svg" alt="" width="100%" />
 </div>
 
-## <img src="./assets/icons/package.svg" width="24" height="24" align="absmiddle" alt="" /> Projekte
+## <img src="./assets/icons/package.svg" width="24" height="24" align="absmiddle" alt="" /> Projects
 
-| Repository | Beschreibung |
+| Repository | Description |
 |---|---|
-| [trc-web](https://github.com/TRC-Production-Studios/trc-web) | Die Webseite von TRC Production Studios |
-| [BR-Website](https://github.com/TRC-Production-Studios/BR-Website) | Prototyp der BR-Website |
+| [trc-web](https://github.com/TRC-Production-Studios/trc-web) | The TRC Production Studios website |
+| [BR-Website](https://github.com/TRC-Production-Studios/BR-Website) | Prototype of the BR-Website |
 
-Jedes Repository hat seine eigene README mit weiteren Infos.
+Each repository has its own README with more details.
 
 <div align="center">
 <img src="./assets/divider.svg" alt="" width="100%" />
@@ -75,7 +75,7 @@ HTML · JavaScript · Lua · Python · Docker
 <img src="./assets/divider.svg" alt="" width="100%" />
 </div>
 
-## <img src="./assets/icons/mail.svg" width="24" height="24" align="absmiddle" alt="" /> Kontakt
+## <img src="./assets/icons/mail.svg" width="24" height="24" align="absmiddle" alt="" /> Contact
 
 <img src="./assets/icons/world.svg" width="18" height="18" align="absmiddle" alt="" /> &nbsp;[trc-production-studios.com](https://trc-production-studios.com)<br/>
 <img src="./assets/icons/mail.svg" width="18" height="18" align="absmiddle" alt="" /> &nbsp;[info@trc-production-studios.com](mailto:info@trc-production-studios.com)
@@ -84,6 +84,6 @@ HTML · JavaScript · Lua · Python · Docker
 
 <div align="center">
 
-<sub>TRC Production Studios · Schweiz</sub>
+<sub>TRC Production Studios · Switzerland</sub>
 
 </div>
