@@ -56,7 +56,7 @@ TRC Production Studios is a small game and development studio from Switzerland. 
 
 | Project | Description |
 |---|---|
-| [divided '89](https://staging.trc-production-studios.com/projects/divided-89) | An open-world espionage thriller set in a divided Germany, 1986 to 1991. |
+| [divided '89](https://trc-production-studios.com/projects/divided-89) | An open-world espionage thriller set in a divided Germany, 1986 to 1991. |
 
 <div align="center">
 <img src="./assets/divider.svg" alt="" width="100%" />
