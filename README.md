@@ -9,7 +9,7 @@
 <a href="https://youtube.com/@trcproductionstudios"><img src="./assets/button-youtube.svg" alt="YouTube" height="48" /></a>
 <a href="https://twitch.tv/trcproductionstudios"><img src="./assets/button-twitch.svg" alt="Twitch" height="48" /></a>
 <a href="https://tiktok.com/@trc.production.studios"><img src="./assets/button-tiktok.svg" alt="TikTok" height="48" /></a>
-<a href="https://discord.gg/DEIN-INVITE-LINK"><img src="./assets/button-discord.svg" alt="Discord" height="48" /></a>
+<a href="https://go.trc-production-studios.com/discord"><img src="./assets/button-discord.svg" alt="Discord" height="48" /></a>
 
 <br/>
 <br/>
@@ -21,8 +21,6 @@
 ## <img src="./assets/icons/info-circle.svg" width="24" height="24" align="absmiddle" alt="" /> About us
 
 TRC Production Studios is a small game and development studio from Switzerland. We build games, tools and web projects, and show how they come to life on our channels.
-
-Our motto: **Inspiration · Innovation · Production**
 
 <div align="center">
 <img src="./assets/divider.svg" alt="" width="100%" />
@@ -56,24 +54,14 @@ Our motto: **Inspiration · Innovation · Production**
 
 ## <img src="./assets/icons/package.svg" width="24" height="24" align="absmiddle" alt="" /> Projects
 
-| Repository | Description |
+| Project | Description |
 |---|---|
-| [trc-web](https://github.com/TRC-Production-Studios/trc-web) | The TRC Production Studios website |
-| [BR-Website](https://github.com/TRC-Production-Studios/BR-Website) | Prototype of the BR-Website |
-
-Each repository has its own README with more details.
+| [divided '89](https://staging.trc-production-studios.com/projects/divided-89) | An open-world espionage thriller set in a divided Germany, 1986 to 1991. |
 
 <div align="center">
 <img src="./assets/divider.svg" alt="" width="100%" />
 </div>
 
-## <img src="./assets/icons/stack-2.svg" width="24" height="24" align="absmiddle" alt="" /> Tech Stack
-
-HTML · JavaScript · Lua · Python · Docker
-
-<div align="center">
-<img src="./assets/divider.svg" alt="" width="100%" />
-</div>
 
 ## <img src="./assets/icons/mail.svg" width="24" height="24" align="absmiddle" alt="" /> Contact
 
